@@ -1,0 +1,10 @@
+.Form {
+    height: 100%;
+    margin: 0;
+    font-family: 'roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    opacity: 1;
+}
